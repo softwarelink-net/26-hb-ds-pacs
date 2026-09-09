@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://26-hb-ds-pacs.softwarelink.net/sitemap.xml
